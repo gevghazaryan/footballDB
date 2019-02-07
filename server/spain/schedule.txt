@@ -1,0 +1,208 @@
+Sat 5 Jan	16:00	 Valladolid - Rayo Vallecano	
+Sat 5 Jan	19:15	 Alaves - Valencia	
+Sat 5 Jan	23:45	 Huesca - Real Betis	
+Sun 6 Jan	15:00	 Eibar - Villarreal	
+Sun 6 Jan	19:15	 FC Sevilla - Atletico Madrid	
+Sun 6 Jan	21:30	 Real Madrid - Real Sociedad	
+Sun 6 Jan	23:45	 Getafe - FC Barcelona	
+Tue 8 Jan	00:00	 Celta Vigo - Athletic Bilbao	
+Sat 12 Jan	00:00	 Rayo Vallecano - Celta Vigo	
+Sat 12 Jan	16:00	 Leganes - Huesca	
+Sat 12 Jan	19:15	 Valencia - Valladolid	
+Sat 12 Jan	21:30	 Girona - Alaves	
+Sat 12 Jan	23:45	 Villarreal - Getafe	
+Sun 13 Jan	15:00	 Atletico Madrid - Levante	
+Sun 13 Jan	19:15	 Athletic Bilbao - FC Sevilla	
+Sun 13 Jan	21:30	 FC Barcelona - Eibar	
+Sun 13 Jan	23:45	 Real Betis - Real Madrid	
+Tue 15 Jan	00:00	 Real Sociedad - Espanyol	
+Sat 19 Jan	00:00	 Getafe - Alaves	
+Sat 19 Jan	19:15	 Real Madrid - FC Sevilla	
+Sat 19 Jan	21:30	 Huesca - Atletico Madrid	
+Sat 19 Jan	23:45	 Celta Vigo - Valencia	
+Sun 20 Jan	15:00	 Real Betis - Girona	
+Sun 20 Jan	19:15	 Villarreal - Athletic Bilbao	-
+Sun 20 Jan	21:30	 Levante - Valladolid	-
+Sun 20 Jan	21:30	 Rayo Vallecano - Real Sociedad	-
+Sun 20 Jan	23:45	 FC Barcelona - Leganes	-
+Tue 22 Jan	00:00	 Eibar - Espanyol	-
+Sun 27 Jan	04:00	 Alaves - Rayo Vallecano	-
+Sun 27 Jan	04:00	 Athletic Bilbao - Real Betis	-
+Sun 27 Jan	04:00	 Atletico Madrid - Getafe	-
+Sun 27 Jan	04:00	 Espanyol - Real Madrid	-
+Sun 27 Jan	04:00	 FC Sevilla - Levante	-
+Sun 27 Jan	04:00	 Girona - FC Barcelona	-
+Sun 27 Jan	04:00	 Leganes - Eibar	-
+Sun 27 Jan	04:00	 Real Sociedad - Huesca	-
+Sun 27 Jan	04:00	 Valencia - Villarreal	-
+Sun 27 Jan	04:00	 Valladolid - Celta Vigo	-
+Sun 3 Feb	04:00	 Celta Vigo - FC Sevilla	-
+Sun 3 Feb	04:00	 Eibar - Girona	-
+Sun 3 Feb	04:00	 FC Barcelona - Valencia	-
+Sun 3 Feb	04:00	 Huesca - Valladolid	-
+Sun 3 Feb	04:00	 Levante - Getafe	-
+Sun 3 Feb	04:00	 Rayo Vallecano - Leganes	-
+Sun 3 Feb	04:00	 Real Betis - Atletico Madrid	-
+Sun 3 Feb	04:00	 Real Madrid - Alaves	-
+Sun 3 Feb	04:00	 Real Sociedad - Athletic Bilbao	-
+Sun 3 Feb	04:00	 Villarreal - Espanyol	-
+Sun 10 Feb	04:00	 Alaves - Levante	-
+Sun 10 Feb	04:00	 Athletic Bilbao - FC Barcelona	-
+Sun 10 Feb	04:00	 Atletico Madrid - Real Madrid	-
+Sun 10 Feb	04:00	 Espanyol - Rayo Vallecano	-
+Sun 10 Feb	04:00	 FC Sevilla - Eibar	-
+Sun 10 Feb	04:00	 Getafe - Celta Vigo	-
+Sun 10 Feb	04:00	 Girona - Huesca	-
+Sun 10 Feb	04:00	 Leganes - Real Betis	-
+Sun 10 Feb	04:00	 Valencia - Real Sociedad	-
+Sun 10 Feb	04:00	 Valladolid - Villarreal	-
+Sat 16 Feb	04:00	 Celta Vigo - Levante	-
+Sat 16 Feb	04:00	 Eibar - Getafe	-
+Sat 16 Feb	04:00	 FC Barcelona - Valladolid	-
+Sat 16 Feb	04:00	 Huesca - Athletic Bilbao	-
+Sat 16 Feb	04:00	 Rayo Vallecano - Atletico Madrid	-
+Sat 16 Feb	04:00	 Real Betis - Alaves	-
+Sat 16 Feb	04:00	 Real Madrid - Girona	-
+Sat 16 Feb	04:00	 Real Sociedad - Leganes	-
+Sat 16 Feb	04:00	 Valencia - Espanyol	-
+Sat 16 Feb	04:00	 Villarreal - FC Sevilla	-
+Sat 23 Feb	04:00	 Alaves - Celta Vigo	-
+Sat 23 Feb	04:00	 Athletic Bilbao - Eibar	-
+Sat 23 Feb	04:00	 Atletico Madrid - Villarreal	-
+Sat 23 Feb	04:00	 Espanyol - Huesca	-
+Sat 23 Feb	04:00	 FC Sevilla - FC Barcelona	-
+Sat 23 Feb	04:00	 Getafe - Rayo Vallecano	-
+Sat 23 Feb	04:00	 Girona - Real Sociedad	-
+Sat 23 Feb	04:00	 Leganes - Valencia	-
+Sat 23 Feb	04:00	 Levante - Real Madrid	-
+Sat 23 Feb	04:00	 Valladolid - Real Betis	-
+Sat 2 Mar	04:00	 Eibar - Celta Vigo	-
+Sat 2 Mar	04:00	 Espanyol - Valladolid	-
+Sat 2 Mar	04:00	 Huesca - FC Sevilla	-
+Sat 2 Mar	04:00	 Leganes - Levante	-
+Sat 2 Mar	04:00	 Rayo Vallecano - Girona	-
+Sat 2 Mar	04:00	 Real Betis - Getafe	-
+Sat 2 Mar	04:00	 Real Madrid - FC Barcelona	-
+Sat 2 Mar	04:00	 Real Sociedad - Atletico Madrid	-
+Sat 2 Mar	04:00	 Valencia - Athletic Bilbao	-
+Sat 2 Mar	04:00	 Villarreal - Alaves	-
+Sat 9 Mar	04:00	 Alaves - Eibar	-
+Sat 9 Mar	04:00	 Athletic Bilbao - Espanyol	-
+Sat 9 Mar	04:00	 Atletico Madrid - Leganes	-
+Sat 9 Mar	04:00	 Celta Vigo - Real Betis	-
+Sat 9 Mar	04:00	 FC Barcelona - Rayo Vallecano	-
+Sat 9 Mar	04:00	 FC Sevilla - Real Sociedad	-
+Sat 9 Mar	04:00	 Getafe - Huesca	-
+Sat 9 Mar	04:00	 Girona - Valencia	-
+Sat 9 Mar	04:00	 Levante - Villarreal	-
+Sat 9 Mar	04:00	 Valladolid - Real Madrid	-
+Sat 16 Mar	04:00	 Athletic Bilbao - Atletico Madrid	-
+Sat 16 Mar	04:00	 Eibar - Valladolid	-
+Sat 16 Mar	04:00	 Espanyol - FC Sevilla	-
+Sat 16 Mar	04:00	 Huesca - Alaves	-
+Sat 16 Mar	04:00	 Leganes - Girona	-
+Sat 16 Mar	04:00	 Real Betis - FC Barcelona	-
+Sat 16 Mar	04:00	 Real Madrid - Celta Vigo	-
+Sat 16 Mar	04:00	 Real Sociedad - Levante	-
+Sat 16 Mar	04:00	 Valencia - Getafe	-
+Sat 16 Mar	04:00	 Villarreal - Rayo Vallecano	-
+Sat 30 Mar	04:00	 Alaves - Atletico Madrid	-
+Sat 30 Mar	04:00	 Celta Vigo - Villarreal	-
+Sat 30 Mar	04:00	 FC Barcelona - Espanyol	-
+Sat 30 Mar	04:00	 FC Sevilla - Valencia	-
+Sat 30 Mar	04:00	 Getafe - Leganes	-
+Sat 30 Mar	04:00	 Girona - Athletic Bilbao	-
+Sat 30 Mar	04:00	 Levante - Eibar	-
+Sat 30 Mar	04:00	 Rayo Vallecano - Real Betis	-
+Sat 30 Mar	04:00	 Real Madrid - Huesca	-
+Sat 30 Mar	04:00	 Valladolid - Real Sociedad	-
+Tue 2 Apr	04:00	 Athletic Bilbao - Levante	-
+Tue 2 Apr	04:00	 Atletico Madrid - Girona	-
+Tue 2 Apr	04:00	 Eibar - Rayo Vallecano	-
+Tue 2 Apr	04:00	 Espanyol - Getafe	-
+Tue 2 Apr	04:00	 FC Sevilla - Alaves	-
+Tue 2 Apr	04:00	 Huesca - Celta Vigo	-
+Tue 2 Apr	04:00	 Leganes - Valladolid	-
+Tue 2 Apr	04:00	 Real Sociedad - Real Betis	-
+Tue 2 Apr	04:00	 Valencia - Real Madrid	-
+Tue 2 Apr	04:00	 Villarreal - FC Barcelona	-
+Sat 6 Apr	04:00	 Alaves - Leganes	-
+Sat 6 Apr	04:00	 Celta Vigo - Real Sociedad	-
+Sat 6 Apr	04:00	 FC Barcelona - Atletico Madrid	-
+Sat 6 Apr	04:00	 Getafe - Athletic Bilbao	-
+Sat 6 Apr	04:00	 Girona - Espanyol	-
+Sat 6 Apr	04:00	 Levante - Huesca	-
+Sat 6 Apr	04:00	 Rayo Vallecano - Valencia	-
+Sat 6 Apr	04:00	 Real Betis - Villarreal	-
+Sat 6 Apr	04:00	 Real Madrid - Eibar	-
+Sat 6 Apr	04:00	 Valladolid - FC Sevilla	-
+Sat 13 Apr	04:00	 Athletic Bilbao - Rayo Vallecano	-
+Sat 13 Apr	04:00	 Atletico Madrid - Celta Vigo	-
+Sat 13 Apr	04:00	 Espanyol - Alaves	-
+Sat 13 Apr	04:00	 FC Sevilla - Real Betis	-
+Sat 13 Apr	04:00	 Girona - Villarreal	-
+Sat 13 Apr	04:00	 Huesca - FC Barcelona	-
+Sat 13 Apr	04:00	 Leganes - Real Madrid	-
+Sat 13 Apr	04:00	 Real Sociedad - Eibar	-
+Sat 13 Apr	04:00	 Valencia - Levante	-
+Sat 13 Apr	04:00	 Valladolid - Getafe	-
+Tue 23 Apr	04:00	 Alaves - Valladolid	-
+Tue 23 Apr	04:00	 Celta Vigo - Girona	-
+Tue 23 Apr	04:00	 Eibar - Atletico Madrid	-
+Tue 23 Apr	04:00	 FC Barcelona - Real Sociedad	-
+Tue 23 Apr	04:00	 Getafe - FC Sevilla	-
+Tue 23 Apr	04:00	 Levante - Espanyol	-
+Tue 23 Apr	04:00	 Rayo Vallecano - Huesca	-
+Tue 23 Apr	04:00	 Real Betis - Valencia	-
+Tue 23 Apr	04:00	 Real Madrid - Athletic Bilbao	-
+Tue 23 Apr	04:00	 Villarreal - Leganes	-
+Sat 27 Apr	04:00	 Alaves - FC Barcelona	-
+Sat 27 Apr	04:00	 Atletico Madrid - Valencia	-
+Sat 27 Apr	04:00	 Espanyol - Celta Vigo	-
+Sat 27 Apr	04:00	 FC Sevilla - Rayo Vallecano	-
+Sat 27 Apr	04:00	 Getafe - Real Madrid	-
+Sat 27 Apr	04:00	 Huesca - Eibar	-
+Sat 27 Apr	04:00	 Leganes - Athletic Bilbao	-
+Sat 27 Apr	04:00	 Levante - Real Betis	-
+Sat 27 Apr	04:00	 Real Sociedad - Villarreal	-
+Sat 27 Apr	04:00	 Valladolid - Girona	-
+Sat 4 May	04:00	 Athletic Bilbao - Alaves	-
+Sat 4 May	04:00	 Atletico Madrid - Valladolid	-
+Sat 4 May	04:00	 FC Barcelona - Levante	-
+Sat 4 May	04:00	 Girona - FC Sevilla	-
+Sat 4 May	04:00	 Leganes - Celta Vigo	-
+Sat 4 May	04:00	 Rayo Vallecano - Real Madrid	-
+Sat 4 May	04:00	 Real Betis - Espanyol	-
+Sat 4 May	04:00	 Real Sociedad - Getafe	-
+Sat 4 May	04:00	 Valencia - Eibar	-
+Sat 4 May	04:00	 Villarreal - Huesca	-
+Sat 11 May	04:00	 Alaves - Real Sociedad	-
+Sat 11 May	04:00	 Celta Vigo - FC Barcelona	-
+Sat 11 May	04:00	 Eibar - Real Betis	-
+Sat 11 May	04:00	 Espanyol - Atletico Madrid	-
+Sat 11 May	04:00	 FC Sevilla - Leganes	-
+Sat 11 May	04:00	 Getafe - Girona	-
+Sat 11 May	04:00	 Huesca - Valencia	-
+Sat 11 May	04:00	 Levante - Rayo Vallecano	-
+Sat 11 May	04:00	 Real Madrid - Villarreal	-
+Sat 11 May	04:00	 Valladolid - Athletic Bilbao	-
+Sat 18 May	04:00	 Athletic Bilbao - Celta Vigo	-
+Sat 18 May	04:00	 Atletico Madrid - FC Sevilla	-
+Sat 18 May	04:00	 FC Barcelona - Getafe	-
+Sat 18 May	04:00	 Girona - Levante	-
+Sat 18 May	04:00	 Leganes - Espanyol	-
+Sat 18 May	04:00	 Rayo Vallecano - Valladolid	-
+Sat 18 May	04:00	 Real Betis - Huesca	-
+Sat 18 May	04:00	 Real Sociedad - Real Madrid	-
+Sat 18 May	04:00	 Valencia - Alaves	-
+Sat 18 May	04:00	 Villarreal - Eibar	-
+Sat 25 May	04:00	 Alaves - Girona	-
+Sat 25 May	04:00	 Celta Vigo - Rayo Vallecano	-
+Sat 25 May	04:00	 Eibar - FC Barcelona	-
+Sat 25 May	04:00	 Espanyol - Real Sociedad	-
+Sat 25 May	04:00	 FC Sevilla - Athletic Bilbao	-
+Sat 25 May	04:00	 Getafe - Villarreal	-
+Sat 25 May	04:00	 Huesca - Leganes	-
+Sat 25 May	04:00	 Levante - Atletico Madrid	-
+Sat 25 May	04:00	 Real Madrid - Real Betis	-
+Sat 25 May	04:00	 Valladolid - Valencia	-

@@ -1,0 +1,201 @@
+Sat 15 Dec	20:00	 Dijon - Paris SG	pp.
+Mon 17 Dec	00:00	 Marseille - Bordeaux	pp.
+Tue 8 Jan	22:00	 Amiens - Angers	
+Tue 8 Jan	22:00	 Nantes - Montpellier	
+Fri 11 Jan	23:45	 Lyon - Reims	
+Sat 12 Jan	20:00	 Amiens - Paris SG	
+Sat 12 Jan	23:00	 Caen - Lille	
+Sat 12 Jan	23:00	 Dijon - Montpellier	
+Sat 12 Jan	23:00	 Guingamp - Saint-Etienne	
+Sat 12 Jan	23:00	 Nice - Bordeaux	
+Sat 12 Jan	23:00	 Nimes - Angers	
+Sun 13 Jan	18:00	 Nantes - Rennes	
+Sun 13 Jan	20:00	 Toulouse - Strasbourg	
+Mon 14 Jan	00:00	 Marseille - Monaco	
+Tue 15 Jan	22:00	 Angers - Bordeaux	
+Wed 16 Jan	00:00	 Paris SG - Montpellier	
+Wed 16 Jan	22:00	 Guingamp - Rennes	
+Wed 16 Jan	22:00	 Monaco - Nice	
+Wed 16 Jan	22:00	 Nimes - Nantes	
+Wed 16 Jan	22:00	 Toulouse - Lyon	
+Thu 17 Jan	00:00	 Saint-Etienne - Marseille	
+Fri 18 Jan	23:45	 Lille - Amiens	
+Sat 19 Jan	20:00	 Paris SG - Guingamp	
+Sat 19 Jan	23:00	 Angers - Nantes	
+Sat 19 Jan	23:00	 Bordeaux - Dijon	
+Sat 19 Jan	23:00	 Monaco - Strasbourg	-
+Sat 19 Jan	23:00	 Nimes - Toulouse	-
+Sat 19 Jan	23:00	 Reims - Nice	-
+Sun 20 Jan	18:00	 Rennes - Montpellier	-
+Sun 20 Jan	20:00	 Caen - Marseille	-
+Mon 21 Jan	00:00	 Saint-Etienne - Lyon	-
+Sat 26 Jan	04:00	 Amiens - Lyon	-
+Sat 26 Jan	04:00	 Dijon - Monaco	-
+Sat 26 Jan	04:00	 Guingamp - Reims	-
+Sat 26 Jan	04:00	 Marseille - Lille	-
+Sat 26 Jan	04:00	 Montpellier - Caen	-
+Sat 26 Jan	04:00	 Nantes - Saint-Etienne	-
+Sat 26 Jan	04:00	 Nice - Nimes	-
+Sat 26 Jan	04:00	 Paris SG - Rennes	-
+Sat 26 Jan	04:00	 Strasbourg - Bordeaux	-
+Sat 26 Jan	04:00	 Toulouse - Angers	-
+Sat 2 Feb	04:00	 Angers - Dijon	-
+Sat 2 Feb	04:00	 Bordeaux - Guingamp	-
+Sat 2 Feb	04:00	 Caen - Nantes	-
+Sat 2 Feb	04:00	 Lille - Nice	-
+Sat 2 Feb	04:00	 Monaco - Toulouse	-
+Sat 2 Feb	04:00	 Nimes - Montpellier	-
+Sat 2 Feb	04:00	 Reims - Marseille	-
+Sat 2 Feb	04:00	 Rennes - Amiens	-
+Sat 2 Feb	04:00	 Saint-Etienne - Strasbourg	-
+Sun 3 Feb	04:00	 Lyon - Paris SG	-
+Sat 9 Feb	04:00	 Amiens - Caen	-
+Sat 9 Feb	04:00	 Dijon - Marseille	-
+Sat 9 Feb	04:00	 Guingamp - Lille	-
+Sat 9 Feb	04:00	 Montpellier - Monaco	-
+Sat 9 Feb	04:00	 Nantes - Nimes	-
+Sat 9 Feb	04:00	 Nice - Lyon	-
+Sat 9 Feb	04:00	 Paris SG - Bordeaux	-
+Sat 9 Feb	04:00	 Rennes - Saint-Etienne	-
+Sat 9 Feb	04:00	 Strasbourg - Angers	-
+Sat 9 Feb	04:00	 Toulouse - Reims	-
+Sat 16 Feb	04:00	 Angers - Nice	-
+Sat 16 Feb	04:00	 Bordeaux - Toulouse	-
+Sat 16 Feb	04:00	 Caen - Strasbourg	-
+Sat 16 Feb	04:00	 Lille - Montpellier	-
+Sat 16 Feb	04:00	 Lyon - Guingamp	-
+Sat 16 Feb	04:00	 Marseille - Amiens	-
+Sat 16 Feb	04:00	 Monaco - Nantes	-
+Sat 16 Feb	04:00	 Nimes - Dijon	-
+Sat 16 Feb	04:00	 Reims - Rennes	-
+Sat 16 Feb	04:00	 Saint-Etienne - Paris SG	-
+Fri 22 Feb	04:00	 Amiens - Nice	-
+Fri 22 Feb	04:00	 Dijon - Saint-Etienne	-
+Fri 22 Feb	04:00	 Guingamp - Angers	-
+Fri 22 Feb	04:00	 Montpellier - Reims	-
+Fri 22 Feb	04:00	 Nantes - Bordeaux	-
+Fri 22 Feb	04:00	 Paris SG - Nimes	-
+Fri 22 Feb	04:00	 Rennes - Marseille	-
+Fri 22 Feb	04:00	 Strasbourg - Lille	-
+Fri 22 Feb	04:00	 Toulouse - Caen	-
+Sat 23 Feb	04:00	 Monaco - Lyon	-
+Fri 1 Mar	04:00	 Angers - Monaco	-
+Fri 1 Mar	04:00	 Bordeaux - Montpellier	-
+Fri 1 Mar	04:00	 Caen - Paris SG	-
+Fri 1 Mar	04:00	 Guingamp - Nantes	-
+Fri 1 Mar	04:00	 Lille - Dijon	-
+Fri 1 Mar	04:00	 Lyon - Toulouse	-
+Fri 1 Mar	04:00	 Marseille - Saint-Etienne	-
+Fri 1 Mar	04:00	 Nice - Strasbourg	-
+Fri 1 Mar	04:00	 Nimes - Rennes	-
+Fri 1 Mar	04:00	 Reims - Amiens	-
+Fri 8 Mar	04:00	 Amiens - Nimes	-
+Fri 8 Mar	04:00	 Dijon - Reims	-
+Fri 8 Mar	04:00	 Marseille - Nice	-
+Fri 8 Mar	04:00	 Monaco - Bordeaux	-
+Fri 8 Mar	04:00	 Montpellier - Angers	-
+Fri 8 Mar	04:00	 Nantes - Paris SG	-
+Fri 8 Mar	04:00	 Rennes - Caen	-
+Fri 8 Mar	04:00	 Saint-Etienne - Lille	-
+Fri 8 Mar	04:00	 Strasbourg - Lyon	-
+Fri 8 Mar	04:00	 Toulouse - Guingamp	-
+Fri 15 Mar	04:00	 Angers - Amiens	-
+Fri 15 Mar	04:00	 Bordeaux - Rennes	-
+Fri 15 Mar	04:00	 Caen - Saint-Etienne	-
+Fri 15 Mar	04:00	 Guingamp - Dijon	-
+Fri 15 Mar	04:00	 Lille - Monaco	-
+Fri 15 Mar	04:00	 Lyon - Montpellier	-
+Fri 15 Mar	04:00	 Nice - Toulouse	-
+Fri 15 Mar	04:00	 Nimes - Strasbourg	-
+Fri 15 Mar	04:00	 Reims - Nantes	-
+Sat 16 Mar	04:00	 Paris SG - Marseille	-
+Sat 30 Mar	04:00	 Amiens - Bordeaux	-
+Sat 30 Mar	04:00	 Dijon - Nice	-
+Sat 30 Mar	04:00	 Marseille - Angers	-
+Sat 30 Mar	04:00	 Monaco - Caen	-
+Sat 30 Mar	04:00	 Montpellier - Guingamp	-
+Sat 30 Mar	04:00	 Nantes - Lille	-
+Sat 30 Mar	04:00	 Rennes - Lyon	-
+Sat 30 Mar	04:00	 Saint-Etienne - Nimes	-
+Sat 30 Mar	04:00	 Strasbourg - Reims	-
+Sat 30 Mar	04:00	 Toulouse - Paris SG	-
+Fri 5 Apr	04:00	 Amiens - Saint-Etienne	-
+Fri 5 Apr	04:00	 Angers - Rennes	-
+Fri 5 Apr	04:00	 Bordeaux - Marseille	-
+Fri 5 Apr	04:00	 Guingamp - Monaco	-
+Fri 5 Apr	04:00	 Lyon - Dijon	-
+Fri 5 Apr	04:00	 Nice - Montpellier	-
+Fri 5 Apr	04:00	 Nimes - Caen	-
+Fri 5 Apr	04:00	 Paris SG - Strasbourg	-
+Fri 5 Apr	04:00	 Reims - Lille	-
+Fri 5 Apr	04:00	 Toulouse - Nantes	-
+Fri 12 Apr	04:00	 Caen - Angers	-
+Fri 12 Apr	04:00	 Dijon - Amiens	-
+Fri 12 Apr	04:00	 Lille - Paris SG	-
+Fri 12 Apr	04:00	 Marseille - Nimes	-
+Fri 12 Apr	04:00	 Monaco - Reims	-
+Fri 12 Apr	04:00	 Montpellier - Toulouse	-
+Fri 12 Apr	04:00	 Nantes - Lyon	-
+Fri 12 Apr	04:00	 Rennes - Nice	-
+Fri 12 Apr	04:00	 Saint-Etienne - Bordeaux	-
+Fri 12 Apr	04:00	 Strasbourg - Guingamp	-
+Fri 19 Apr	04:00	 Dijon - Rennes	-
+Fri 19 Apr	04:00	 Guingamp - Marseille	-
+Fri 19 Apr	04:00	 Lyon - Angers	-
+Fri 19 Apr	04:00	 Nantes - Amiens	-
+Fri 19 Apr	04:00	 Nice - Caen	-
+Fri 19 Apr	04:00	 Nimes - Bordeaux	-
+Fri 19 Apr	04:00	 Reims - Saint-Etienne	-
+Fri 19 Apr	04:00	 Strasbourg - Montpellier	-
+Fri 19 Apr	04:00	 Toulouse - Lille	-
+Sat 20 Apr	04:00	 Paris SG - Monaco	-
+Sat 27 Apr	04:00	 Amiens - Strasbourg	-
+Sat 27 Apr	04:00	 Angers - Reims	-
+Sat 27 Apr	04:00	 Bordeaux - Lyon	-
+Sat 27 Apr	04:00	 Caen - Dijon	-
+Sat 27 Apr	04:00	 Lille - Nimes	-
+Sat 27 Apr	04:00	 Marseille - Nantes	-
+Sat 27 Apr	04:00	 Montpellier - Paris SG	-
+Sat 27 Apr	04:00	 Nice - Guingamp	-
+Sat 27 Apr	04:00	 Rennes - Monaco	-
+Sat 27 Apr	04:00	 Saint-Etienne - Toulouse	-
+Fri 3 May	04:00	 Bordeaux - Angers	-
+Fri 3 May	04:00	 Guingamp - Caen	-
+Fri 3 May	04:00	 Lyon - Lille	-
+Fri 3 May	04:00	 Monaco - Saint-Etienne	-
+Fri 3 May	04:00	 Montpellier - Amiens	-
+Fri 3 May	04:00	 Nantes - Dijon	-
+Fri 3 May	04:00	 Paris SG - Nice	-
+Fri 3 May	04:00	 Reims - Nimes	-
+Fri 3 May	04:00	 Strasbourg - Marseille	-
+Fri 3 May	04:00	 Toulouse - Rennes	-
+Fri 10 May	04:00	 Amiens - Toulouse	-
+Fri 10 May	04:00	 Angers - Paris SG	-
+Fri 10 May	04:00	 Caen - Reims	-
+Fri 10 May	04:00	 Dijon - Strasbourg	-
+Fri 10 May	04:00	 Lille - Bordeaux	-
+Fri 10 May	04:00	 Nice - Nantes	-
+Fri 10 May	04:00	 Nimes - Monaco	-
+Fri 10 May	04:00	 Rennes - Guingamp	-
+Fri 10 May	04:00	 Saint-Etienne - Montpellier	-
+Sat 11 May	04:00	 Marseille - Lyon	-
+Fri 17 May	04:00	 Bordeaux - Reims	-
+Fri 17 May	04:00	 Guingamp - Nimes	-
+Fri 17 May	04:00	 Lille - Angers	-
+Fri 17 May	04:00	 Lyon - Caen	-
+Fri 17 May	04:00	 Monaco - Amiens	-
+Fri 17 May	04:00	 Montpellier - Nantes	-
+Fri 17 May	04:00	 Paris SG - Dijon	-
+Fri 17 May	04:00	 Saint-Etienne - Nice	-
+Fri 17 May	04:00	 Strasbourg - Rennes	-
+Fri 17 May	04:00	 Toulouse - Marseille	-
+Fri 24 May	04:00	 Amiens - Guingamp	-
+Fri 24 May	04:00	 Angers - Saint-Etienne	-
+Fri 24 May	04:00	 Caen - Bordeaux	-
+Fri 24 May	04:00	 Dijon - Toulouse	-
+Fri 24 May	04:00	 Marseille - Montpellier	-
+Fri 24 May	04:00	 Nantes - Strasbourg	-
+Fri 24 May	04:00	 Nice - Monaco	-
+Fri 24 May	04:00	 Nimes - Lyon	-
+Fri 24 May	04:00	 Reims - Paris SG	-
+Fri 24 May	04:00	 Rennes - Lille	-

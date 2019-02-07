@@ -1,0 +1,190 @@
+Sat 19 Jan	18:00	 AS Roma - Torino	
+Sat 19 Jan	21:00	 Udinese - Parma	
+Sat 19 Jan	23:30	 Inter Milan - Sassuolo	
+Sun 20 Jan	15:30	 Frosinone - Atalanta	
+Sun 20 Jan	18:00	 Fiorentina - Sampdoria	
+Sun 20 Jan	18:00	 SPAL - Bologna	
+Sun 20 Jan	21:00	 Cagliari - Empoli	
+Sun 20 Jan	23:30	 Napoli - Lazio	
+Mon 21 Jan	22:00	 Juventus - Chievo	
+Tue 22 Jan	00:00	 Genoa - AC Milan	
+Sat 26 Jan	18:00	 Sassuolo - Cagliari	
+Sat 26 Jan	21:00	 Sampdoria - Udinese	
+Sat 26 Jan	23:30	 AC Milan - Napoli	
+Sun 27 Jan	15:30	 Chievo - Fiorentina	
+Sun 27 Jan	18:00	 Atalanta - AS Roma	
+Sun 27 Jan	18:00	 Bologna - Frosinone	
+Sun 27 Jan	18:00	 Parma - SPAL	
+Sun 27 Jan	21:00	 Torino - Inter Milan	
+Sun 27 Jan	23:30	 Lazio - Juventus	
+Mon 28 Jan	23:30	 Empoli - Genoa	
+Sat 2 Feb	18:00	 Empoli - Chievo	
+Sat 2 Feb	21:00	 Napoli - Sampdoria	
+Sat 2 Feb	23:30	 Juventus - Parma	
+Sun 3 Feb	15:30	 SPAL - Torino	-
+Sun 3 Feb	18:00	 Frosinone - Lazio	-
+Sun 3 Feb	18:00	 Genoa - Sassuolo	-
+Sun 3 Feb	18:00	 Udinese - Fiorentina	-
+Sun 3 Feb	21:00	 Inter Milan - Bologna	-
+Sun 3 Feb	23:30	 AS Roma - AC Milan	-
+Mon 4 Feb	23:30	 Cagliari - Atalanta	-
+Thu 7 Feb	23:30	 Lazio - Empoli	-
+Fri 8 Feb	23:30	 Chievo - AS Roma	-
+Sat 9 Feb	21:00	 Fiorentina - Napoli	-
+Sat 9 Feb	23:30	 Parma - Inter Milan	-
+Sun 10 Feb	15:30	 Bologna - Genoa	-
+Sun 10 Feb	18:00	 Atalanta - SPAL	-
+Sun 10 Feb	18:00	 Sampdoria - Frosinone	-
+Sun 10 Feb	18:00	 Torino - Udinese	-
+Sun 10 Feb	21:00	 Sassuolo - Juventus	-
+Sun 10 Feb	23:30	 AC Milan - Cagliari	-
+Fri 15 Feb	23:30	 Juventus - Frosinone	-
+Sat 16 Feb	04:00	 AS Roma - Bologna	-
+Sat 16 Feb	04:00	 Atalanta - AC Milan	-
+Sat 16 Feb	04:00	 Cagliari - Parma	-
+Sat 16 Feb	04:00	 Empoli - Sassuolo	-
+Sat 16 Feb	04:00	 Genoa - Lazio	-
+Sat 16 Feb	04:00	 Inter Milan - Sampdoria	-
+Sat 16 Feb	04:00	 Napoli - Torino	-
+Sat 16 Feb	04:00	 SPAL - Fiorentina	-
+Sat 16 Feb	04:00	 Udinese - Chievo	-
+Sat 23 Feb	04:00	 AC Milan - Empoli	-
+Sat 23 Feb	04:00	 Bologna - Juventus	-
+Sat 23 Feb	04:00	 Chievo - Genoa	-
+Sat 23 Feb	04:00	 Fiorentina - Inter Milan	-
+Sat 23 Feb	04:00	 Frosinone - AS Roma	-
+Sat 23 Feb	04:00	 Lazio - Udinese	-
+Sat 23 Feb	04:00	 Parma - Napoli	-
+Sat 23 Feb	04:00	 Sampdoria - Cagliari	-
+Sat 23 Feb	04:00	 Sassuolo - SPAL	-
+Sat 23 Feb	04:00	 Torino - Atalanta	-
+Sat 2 Mar	04:00	 AC Milan - Sassuolo	-
+Sat 2 Mar	04:00	 Atalanta - Fiorentina	-
+Sat 2 Mar	04:00	 Cagliari - Inter Milan	-
+Sat 2 Mar	04:00	 Empoli - Parma	-
+Sat 2 Mar	04:00	 Genoa - Frosinone	-
+Sat 2 Mar	04:00	 Lazio - AS Roma	-
+Sat 2 Mar	04:00	 Napoli - Juventus	-
+Sat 2 Mar	04:00	 SPAL - Sampdoria	-
+Sat 2 Mar	04:00	 Torino - Chievo	-
+Sat 2 Mar	04:00	 Udinese - Bologna	-
+Sat 9 Mar	04:00	 AS Roma - Empoli	-
+Sat 9 Mar	04:00	 Bologna - Cagliari	-
+Sat 9 Mar	04:00	 Chievo - AC Milan	-
+Sat 9 Mar	04:00	 Fiorentina - Lazio	-
+Sat 9 Mar	04:00	 Frosinone - Torino	-
+Sat 9 Mar	04:00	 Inter Milan - SPAL	-
+Sat 9 Mar	04:00	 Juventus - Udinese	-
+Sat 9 Mar	04:00	 Parma - Genoa	-
+Sat 9 Mar	04:00	 Sampdoria - Atalanta	-
+Sat 9 Mar	04:00	 Sassuolo - Napoli	-
+Sat 16 Mar	04:00	 AC Milan - Inter Milan	-
+Sat 16 Mar	04:00	 Atalanta - Chievo	-
+Sat 16 Mar	04:00	 Cagliari - Fiorentina	-
+Sat 16 Mar	04:00	 Empoli - Frosinone	-
+Sat 16 Mar	04:00	 Genoa - Juventus	-
+Sat 16 Mar	04:00	 Lazio - Parma	-
+Sat 16 Mar	04:00	 Napoli - Udinese	-
+Sat 16 Mar	04:00	 Sassuolo - Sampdoria	-
+Sat 16 Mar	04:00	 SPAL - AS Roma	-
+Sat 16 Mar	04:00	 Torino - Bologna	-
+Sat 30 Mar	04:00	 AS Roma - Napoli	-
+Sat 30 Mar	04:00	 Bologna - Sassuolo	-
+Sat 30 Mar	04:00	 Chievo - Cagliari	-
+Sat 30 Mar	04:00	 Fiorentina - Torino	-
+Sat 30 Mar	04:00	 Frosinone - SPAL	-
+Sat 30 Mar	04:00	 Inter Milan - Lazio	-
+Sat 30 Mar	04:00	 Juventus - Empoli	-
+Sat 30 Mar	04:00	 Parma - Atalanta	-
+Sat 30 Mar	04:00	 Sampdoria - AC Milan	-
+Sat 30 Mar	04:00	 Udinese - Genoa	-
+Tue 2 Apr	04:00	 AC Milan - Udinese	-
+Tue 2 Apr	04:00	 AS Roma - Fiorentina	-
+Tue 2 Apr	04:00	 Atalanta - Bologna	-
+Tue 2 Apr	04:00	 Cagliari - Juventus	-
+Tue 2 Apr	04:00	 Empoli - Napoli	-
+Tue 2 Apr	04:00	 Frosinone - Parma	-
+Tue 2 Apr	04:00	 Genoa - Inter Milan	-
+Tue 2 Apr	04:00	 Sassuolo - Chievo	-
+Tue 2 Apr	04:00	 SPAL - Lazio	-
+Tue 2 Apr	04:00	 Torino - Sampdoria	-
+Sat 6 Apr	04:00	 Bologna - Chievo	-
+Sat 6 Apr	04:00	 Cagliari - SPAL	-
+Sat 6 Apr	04:00	 Fiorentina - Frosinone	-
+Sat 6 Apr	04:00	 Inter Milan - Atalanta	-
+Sat 6 Apr	04:00	 Juventus - AC Milan	-
+Sat 6 Apr	04:00	 Lazio - Sassuolo	-
+Sat 6 Apr	04:00	 Napoli - Genoa	-
+Sat 6 Apr	04:00	 Parma - Torino	-
+Sat 6 Apr	04:00	 Sampdoria - AS Roma	-
+Sat 6 Apr	04:00	 Udinese - Empoli	-
+Sat 13 Apr	04:00	 AC Milan - Lazio	-
+Sat 13 Apr	04:00	 AS Roma - Udinese	-
+Sat 13 Apr	04:00	 Atalanta - Empoli	-
+Sat 13 Apr	04:00	 Chievo - Napoli	-
+Sat 13 Apr	04:00	 Fiorentina - Bologna	-
+Sat 13 Apr	04:00	 Frosinone - Inter Milan	-
+Sat 13 Apr	04:00	 Sampdoria - Genoa	-
+Sat 13 Apr	04:00	 Sassuolo - Parma	-
+Sat 13 Apr	04:00	 SPAL - Juventus	-
+Sat 13 Apr	04:00	 Torino - Cagliari	-
+Fri 19 Apr	04:00	 Bologna - Sampdoria	-
+Fri 19 Apr	04:00	 Cagliari - Frosinone	-
+Fri 19 Apr	04:00	 Empoli - SPAL	-
+Fri 19 Apr	04:00	 Genoa - Torino	-
+Fri 19 Apr	04:00	 Inter Milan - AS Roma	-
+Fri 19 Apr	04:00	 Juventus - Fiorentina	-
+Fri 19 Apr	04:00	 Lazio - Chievo	-
+Fri 19 Apr	04:00	 Napoli - Atalanta	-
+Fri 19 Apr	04:00	 Parma - AC Milan	-
+Fri 19 Apr	04:00	 Udinese - Sassuolo	-
+Sat 27 Apr	04:00	 AS Roma - Cagliari	-
+Sat 27 Apr	04:00	 Atalanta - Udinese	-
+Sat 27 Apr	04:00	 Bologna - Empoli	-
+Sat 27 Apr	04:00	 Chievo - Parma	-
+Sat 27 Apr	04:00	 Fiorentina - Sassuolo	-
+Sat 27 Apr	04:00	 Frosinone - Napoli	-
+Sat 27 Apr	04:00	 Inter Milan - Juventus	-
+Sat 27 Apr	04:00	 Sampdoria - Lazio	-
+Sat 27 Apr	04:00	 SPAL - Genoa	-
+Sat 27 Apr	04:00	 Torino - AC Milan	-
+Sat 4 May	04:00	 AC Milan - Bologna	-
+Sat 4 May	04:00	 Chievo - SPAL	-
+Sat 4 May	04:00	 Empoli - Fiorentina	-
+Sat 4 May	04:00	 Genoa - AS Roma	-
+Sat 4 May	04:00	 Juventus - Torino	-
+Sat 4 May	04:00	 Lazio - Atalanta	-
+Sat 4 May	04:00	 Napoli - Cagliari	-
+Sat 4 May	04:00	 Parma - Sampdoria	-
+Sat 4 May	04:00	 Sassuolo - Frosinone	-
+Sat 4 May	04:00	 Udinese - Inter Milan	-
+Sat 11 May	04:00	 AS Roma - Juventus	-
+Sat 11 May	04:00	 Atalanta - Genoa	-
+Sat 11 May	04:00	 Bologna - Parma	-
+Sat 11 May	04:00	 Cagliari - Lazio	-
+Sat 11 May	04:00	 Fiorentina - AC Milan	-
+Sat 11 May	04:00	 Frosinone - Udinese	-
+Sat 11 May	04:00	 Inter Milan - Chievo	-
+Sat 11 May	04:00	 Sampdoria - Empoli	-
+Sat 11 May	04:00	 SPAL - Napoli	-
+Sat 11 May	04:00	 Torino - Sassuolo	-
+Sat 18 May	04:00	 AC Milan - Frosinone	-
+Sat 18 May	04:00	 Chievo - Sampdoria	-
+Sat 18 May	04:00	 Empoli - Torino	-
+Sat 18 May	04:00	 Genoa - Cagliari	-
+Sat 18 May	04:00	 Juventus - Atalanta	-
+Sat 18 May	04:00	 Lazio - Bologna	-
+Sat 18 May	04:00	 Napoli - Inter Milan	-
+Sat 18 May	04:00	 Parma - Fiorentina	-
+Sat 18 May	04:00	 Sassuolo - AS Roma	-
+Sat 18 May	04:00	 Udinese - SPAL	-
+Sat 25 May	04:00	 AS Roma - Parma	-
+Sat 25 May	04:00	 Atalanta - Sassuolo	-
+Sat 25 May	04:00	 Bologna - Napoli	-
+Sat 25 May	04:00	 Cagliari - Udinese	-
+Sat 25 May	04:00	 Fiorentina - Genoa	-
+Sat 25 May	04:00	 Frosinone - Chievo	-
+Sat 25 May	04:00	 Inter Milan - Empoli	-
+Sat 25 May	04:00	 Sampdoria - Juventus	-
+Sat 25 May	04:00	 SPAL - AC Milan	-
+Sat 25 May	04:00	 Torino - Lazio	-

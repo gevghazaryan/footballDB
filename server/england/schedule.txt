@@ -1,0 +1,170 @@
+Sat 12 Jan	16:30	 West Ham Utd - Arsenal	
+Sat 12 Jan	19:00	 Brighton & Hove - Liverpool	
+Sat 12 Jan	19:00	 Burnley - Fulham	
+Sat 12 Jan	19:00	 Cardiff City - Huddersfield	
+Sat 12 Jan	19:00	 Crystal Palace - Watford	
+Sat 12 Jan	19:00	 Leicester City - Southampton	
+Sat 12 Jan	21:30	 Chelsea - Newcastle Utd	
+Sun 13 Jan	18:15	 Everton - Bournemouth	
+Sun 13 Jan	20:30	 Tottenham - Manchester Utd	
+Tue 15 Jan	00:00	 Manchester City - Wolverhampton	
+Sat 19 Jan	16:30	 Wolverhampton - Leicester City	
+Sat 19 Jan	19:00	 Bournemouth - West Ham Utd	
+Sat 19 Jan	19:00	 Liverpool - Crystal Palace	
+Sat 19 Jan	19:00	 Manchester Utd - Brighton & Hove	
+Sat 19 Jan	19:00	 Newcastle Utd - Cardiff City	
+Sat 19 Jan	19:00	 Southampton - Everton	
+Sat 19 Jan	19:00	 Watford - Burnley	
+Sat 19 Jan	21:30	 Arsenal - Chelsea	
+Sun 20 Jan	17:30	 Huddersfield - Manchester City	
+Sun 20 Jan	20:00	 Fulham - Tottenham	
+Tue 29 Jan	23:45	 Arsenal - Cardiff City	
+Tue 29 Jan	23:45	 Bournemouth - Chelsea	
+Tue 29 Jan	23:45	 Fulham - Brighton & Hove	
+Tue 29 Jan	23:45	 Huddersfield - Everton	-
+Tue 29 Jan	23:45	 Wolverhampton - West Ham Utd	-
+Wed 30 Jan	00:00	 Manchester Utd - Burnley	-
+Wed 30 Jan	00:00	 Newcastle Utd - Manchester City	-
+Wed 30 Jan	23:45	 Southampton - Crystal Palace	-
+Thu 31 Jan	00:00	 Liverpool - Leicester City	-
+Thu 31 Jan	00:00	 Tottenham - Watford	-
+Sat 2 Feb	16:30	 Tottenham - Newcastle Utd	-
+Sat 2 Feb	19:00	 Brighton & Hove - Watford	-
+Sat 2 Feb	19:00	 Burnley - Southampton	-
+Sat 2 Feb	19:00	 Chelsea - Huddersfield	-
+Sat 2 Feb	19:00	 Crystal Palace - Fulham	-
+Sat 2 Feb	19:00	 Everton - Wolverhampton	-
+Sat 2 Feb	21:30	 Cardiff City - Bournemouth	-
+Sun 3 Feb	18:05	 Leicester City - Manchester Utd	-
+Sun 3 Feb	20:30	 Manchester City - Arsenal	-
+Tue 5 Feb	00:00	 West Ham Utd - Liverpool	-
+Sat 9 Feb	16:30	 Fulham - Manchester Utd	-
+Sat 9 Feb	19:00	 Crystal Palace - West Ham Utd	-
+Sat 9 Feb	19:00	 Huddersfield - Arsenal	-
+Sat 9 Feb	19:00	 Liverpool - Bournemouth	-
+Sat 9 Feb	19:00	 Southampton - Cardiff City	-
+Sat 9 Feb	19:00	 Watford - Everton	-
+Sat 9 Feb	21:30	 Brighton & Hove - Burnley	-
+Sun 10 Feb	17:30	 Tottenham - Leicester City	-
+Sun 10 Feb	20:00	 Manchester City - Chelsea	-
+Tue 12 Feb	00:00	 Wolverhampton - Newcastle Utd	-
+Fri 22 Feb	04:00	 Arsenal - Southampton	-
+Fri 22 Feb	04:00	 Bournemouth - Wolverhampton	-
+Fri 22 Feb	04:00	 Burnley - Tottenham	-
+Fri 22 Feb	04:00	 Cardiff City - Watford	-
+Fri 22 Feb	04:00	 Chelsea - Brighton & Hove	-
+Fri 22 Feb	04:00	 Everton - Manchester City	-
+Fri 22 Feb	04:00	 Leicester City - Crystal Palace	-
+Fri 22 Feb	04:00	 Manchester Utd - Liverpool	-
+Fri 22 Feb	04:00	 Newcastle Utd - Huddersfield	-
+Fri 22 Feb	04:00	 West Ham Utd - Fulham	-
+Mon 25 Feb	04:00	 Arsenal - Bournemouth	-
+Mon 25 Feb	04:00	 Cardiff City - Everton	-
+Mon 25 Feb	04:00	 Crystal Palace - Manchester Utd	-
+Mon 25 Feb	04:00	 Huddersfield - Wolverhampton	-
+Mon 25 Feb	04:00	 Leicester City - Brighton & Hove	-
+Tue 26 Feb	04:00	 Chelsea - Tottenham	-
+Tue 26 Feb	04:00	 Liverpool - Watford	-
+Tue 26 Feb	04:00	 Manchester City - West Ham Utd	-
+Tue 26 Feb	04:00	 Newcastle Utd - Burnley	-
+Tue 26 Feb	04:00	 Southampton - Fulham	-
+Fri 1 Mar	04:00	 Bournemouth - Manchester City	-
+Fri 1 Mar	04:00	 Brighton & Hove - Huddersfield	-
+Fri 1 Mar	04:00	 Burnley - Crystal Palace	-
+Fri 1 Mar	04:00	 Everton - Liverpool	-
+Fri 1 Mar	04:00	 Fulham - Chelsea	-
+Fri 1 Mar	04:00	 Manchester Utd - Southampton	-
+Fri 1 Mar	04:00	 Tottenham - Arsenal	-
+Fri 1 Mar	04:00	 Watford - Leicester City	-
+Fri 1 Mar	04:00	 West Ham Utd - Newcastle Utd	-
+Fri 1 Mar	04:00	 Wolverhampton - Cardiff City	-
+Fri 8 Mar	04:00	 Arsenal - Manchester Utd	-
+Fri 8 Mar	04:00	 Cardiff City - West Ham Utd	-
+Fri 8 Mar	04:00	 Chelsea - Wolverhampton	-
+Fri 8 Mar	04:00	 Crystal Palace - Brighton & Hove	-
+Fri 8 Mar	04:00	 Huddersfield - Bournemouth	-
+Fri 8 Mar	04:00	 Leicester City - Fulham	-
+Fri 8 Mar	04:00	 Liverpool - Burnley	-
+Fri 8 Mar	04:00	 Manchester City - Watford	-
+Fri 8 Mar	04:00	 Newcastle Utd - Everton	-
+Fri 8 Mar	04:00	 Southampton - Tottenham	-
+Fri 15 Mar	04:00	 Bournemouth - Newcastle Utd	-
+Fri 15 Mar	04:00	 Brighton & Hove - Cardiff City	-
+Fri 15 Mar	04:00	 Burnley - Leicester City	-
+Fri 15 Mar	04:00	 Everton - Chelsea	-
+Fri 15 Mar	04:00	 Fulham - Liverpool	-
+Fri 15 Mar	04:00	 Manchester Utd - Manchester City	-
+Fri 15 Mar	04:00	 Tottenham - Crystal Palace	-
+Fri 15 Mar	04:00	 Watford - Southampton	-
+Fri 15 Mar	04:00	 West Ham Utd - Huddersfield	-
+Fri 15 Mar	04:00	 Wolverhampton - Arsenal	-
+Fri 29 Mar	04:00	 Arsenal - Newcastle Utd	-
+Fri 29 Mar	04:00	 Brighton & Hove - Southampton	-
+Fri 29 Mar	04:00	 Burnley - Wolverhampton	-
+Fri 29 Mar	04:00	 Cardiff City - Chelsea	-
+Fri 29 Mar	04:00	 Crystal Palace - Huddersfield	-
+Fri 29 Mar	04:00	 Fulham - Manchester City	-
+Fri 29 Mar	04:00	 Leicester City - Bournemouth	-
+Fri 29 Mar	04:00	 Liverpool - Tottenham	-
+Fri 29 Mar	04:00	 Manchester Utd - Watford	-
+Fri 29 Mar	04:00	 West Ham Utd - Everton	-
+Fri 5 Apr	04:00	 Bournemouth - Burnley	-
+Fri 5 Apr	04:00	 Chelsea - West Ham Utd	-
+Fri 5 Apr	04:00	 Everton - Arsenal	-
+Fri 5 Apr	04:00	 Huddersfield - Leicester City	-
+Fri 5 Apr	04:00	 Manchester City - Cardiff City	-
+Fri 5 Apr	04:00	 Newcastle Utd - Crystal Palace	-
+Fri 5 Apr	04:00	 Southampton - Liverpool	-
+Fri 5 Apr	04:00	 Tottenham - Brighton & Hove	-
+Fri 5 Apr	04:00	 Watford - Fulham	-
+Fri 5 Apr	04:00	 Wolverhampton - Manchester Utd	-
+Fri 12 Apr	04:00	 Brighton & Hove - Bournemouth	-
+Fri 12 Apr	04:00	 Burnley - Cardiff City	-
+Fri 12 Apr	04:00	 Crystal Palace - Manchester City	-
+Fri 12 Apr	04:00	 Fulham - Everton	-
+Fri 12 Apr	04:00	 Leicester City - Newcastle Utd	-
+Fri 12 Apr	04:00	 Liverpool - Chelsea	-
+Fri 12 Apr	04:00	 Manchester Utd - West Ham Utd	-
+Fri 12 Apr	04:00	 Southampton - Wolverhampton	-
+Fri 12 Apr	04:00	 Tottenham - Huddersfield	-
+Fri 12 Apr	04:00	 Watford - Arsenal	-
+Fri 19 Apr	04:00	 Arsenal - Crystal Palace	-
+Fri 19 Apr	04:00	 Bournemouth - Fulham	-
+Fri 19 Apr	04:00	 Cardiff City - Liverpool	-
+Fri 19 Apr	04:00	 Chelsea - Burnley	-
+Fri 19 Apr	04:00	 Everton - Manchester Utd	-
+Fri 19 Apr	04:00	 Huddersfield - Watford	-
+Fri 19 Apr	04:00	 Manchester City - Tottenham	-
+Fri 19 Apr	04:00	 Newcastle Utd - Southampton	-
+Fri 19 Apr	04:00	 West Ham Utd - Leicester City	-
+Fri 19 Apr	04:00	 Wolverhampton - Brighton & Hove	-
+Fri 26 Apr	04:00	 Brighton & Hove - Newcastle Utd	-
+Fri 26 Apr	04:00	 Burnley - Manchester City	-
+Fri 26 Apr	04:00	 Crystal Palace - Everton	-
+Fri 26 Apr	04:00	 Fulham - Cardiff City	-
+Fri 26 Apr	04:00	 Leicester City - Arsenal	-
+Fri 26 Apr	04:00	 Liverpool - Huddersfield	-
+Fri 26 Apr	04:00	 Manchester Utd - Chelsea	-
+Fri 26 Apr	04:00	 Southampton - Bournemouth	-
+Fri 26 Apr	04:00	 Tottenham - West Ham Utd	-
+Fri 26 Apr	04:00	 Watford - Wolverhampton	-
+Fri 3 May	04:00	 Arsenal - Brighton & Hove	-
+Fri 3 May	04:00	 Bournemouth - Tottenham	-
+Fri 3 May	04:00	 Cardiff City - Crystal Palace	-
+Fri 3 May	04:00	 Chelsea - Watford	-
+Fri 3 May	04:00	 Everton - Burnley	-
+Fri 3 May	04:00	 Huddersfield - Manchester Utd	-
+Fri 3 May	04:00	 Manchester City - Leicester City	-
+Fri 3 May	04:00	 Newcastle Utd - Liverpool	-
+Fri 3 May	04:00	 West Ham Utd - Southampton	-
+Fri 3 May	04:00	 Wolverhampton - Fulham	-
+Sat 11 May	04:00	 Brighton & Hove - Manchester City	-
+Sat 11 May	04:00	 Burnley - Arsenal	-
+Sat 11 May	04:00	 Crystal Palace - Bournemouth	-
+Sat 11 May	04:00	 Fulham - Newcastle Utd	-
+Sat 11 May	04:00	 Leicester City - Chelsea	-
+Sat 11 May	04:00	 Liverpool - Wolverhampton	-
+Sat 11 May	04:00	 Manchester Utd - Cardiff City	-
+Sat 11 May	04:00	 Southampton - Huddersfield	-
+Sat 11 May	04:00	 Tottenham - Everton	-
+Sat 11 May	04:00	 Watford - West Ham Utd

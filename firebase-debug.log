@@ -1,0 +1,75 @@
+[debug] [2018-11-25T10:44:37.420Z] ----------------------------------------------------------------------
+[debug] [2018-11-25T10:44:37.449Z] Command:       E:\Program Files\nodejs\node.exe C:\Users\full fail\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2018-11-25T10:44:37.450Z] CLI Version:   6.1.1
+[debug] [2018-11-25T10:44:37.450Z] Platform:      win32
+[debug] [2018-11-25T10:44:37.450Z] Node Version:  v10.4.1
+[debug] [2018-11-25T10:44:37.584Z] Time:          Sun Nov 25 2018 14:44:37 GMT+0400 (Armenia Standard Time)
+[debug] [2018-11-25T10:44:37.584Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-11-25T10:44:37.676Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-11-25T10:44:37.678Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\full fail\Desktop\reactJS\footballdata
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2018-11-25T10:48:49.846Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2018-11-25T10:48:49.847Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+ <request body omitted>
+[debug] [2018-11-25T10:48:50.198Z] <<< HTTP RESPONSE 200
+[debug] [2018-11-25T10:48:50.237Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects?page_size=100  
+ 
+[debug] [2018-11-25T10:48:50.794Z] <<< HTTP RESPONSE 200
+[info] i  Using project ismrtbet (ismrtbet)
+[info] 
+=== Database Setup
+[info] 
+[info] Firebase Realtime Database Rules allow you to define how your data should be
+[info] structured and when your data can be read from and written to.
+[info] 
+[debug] [2018-11-25T10:49:11.608Z] >>> HTTP REQUEST GET https://ismrtbet.firebaseio.com/.settings/rules.json  
+ 
+[debug] [2018-11-25T10:49:12.403Z] <<< HTTP RESPONSE 200
+[info] +  Database Rules for ismrtbet have been downloaded to database.rules.json.
+[info] Future modifications to database.rules.json will update Database Rules when you run
+[info] firebase deploy.
+[info] 
+=== Functions Setup
+[info] 
+[info] A functions directory will be created in your project with a Node.js
+[info] package pre-configured. Functions can be deployed with firebase deploy.
+[info] 
+[debug] [2018-11-25T10:49:12.419Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-11-25T10:49:12.422Z] > authorizing via signed-in user
+[debug] [2018-11-25T10:49:12.422Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/ismrtbet  
+ 
+[debug] [2018-11-25T10:49:12.741Z] <<< HTTP RESPONSE 200
+[debug] [2018-11-25T10:49:12.747Z] >>> HTTP REQUEST PATCH https://servicemanagement.googleapis.com/v1/services/cloudfunctions.googleapis.com/projectSettings/ismrtbet?updateMask=usageSettings  
+
+[debug] [2018-11-25T10:49:12.752Z] >>> HTTP REQUEST PATCH https://servicemanagement.googleapis.com/v1/services/runtimeconfig.googleapis.com/projectSettings/ismrtbet?updateMask=usageSettings  
+
+[debug] [2018-11-25T10:49:15.312Z] <<< HTTP RESPONSE 200
+[debug] [2018-11-25T10:49:15.415Z] <<< HTTP RESPONSE 200
+[info] +  Wrote functions/package.json
+[info] +  Wrote functions/.eslintrc.json
+[info] +  Wrote functions/index.js
+[info] 
+=== Hosting Setup
+[info] 
+[info] Your public directory is the folder (relative to your project directory) that
+[info] will contain Hosting assets to be uploaded with firebase deploy. If you
+[info] have a build process for your assets, use your build's output directory.
+[info] 

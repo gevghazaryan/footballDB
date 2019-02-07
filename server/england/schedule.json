@@ -1,0 +1,852 @@
+[
+    {
+        "date": "2019-Jan-12",
+        "ht": "West Ham Utd",
+        "at": "Arsenal"
+    },
+    {
+        "date": "2019-Jan-12",
+        "ht": "Brighton & Hove",
+        "at": "Liverpool"
+    },
+    {
+        "date": "2019-Jan-12",
+        "ht": "Burnley",
+        "at": "Fulham"
+    },
+    {
+        "date": "2019-Jan-12",
+        "ht": "Cardiff City",
+        "at": "Huddersfield"
+    },
+    {
+        "date": "2019-Jan-12",
+        "ht": "Crystal Palace",
+        "at": "Watford"
+    },
+    {
+        "date": "2019-Jan-12",
+        "ht": "Leicester City",
+        "at": "Southampton"
+    },
+    {
+        "date": "2019-Jan-12",
+        "ht": "Chelsea",
+        "at": "Newcastle Utd"
+    },
+    {
+        "date": "2019-Jan-13",
+        "ht": "Everton",
+        "at": "Bournemouth"
+    },
+    {
+        "date": "2019-Jan-13",
+        "ht": "Tottenham",
+        "at": "Manchester Utd"
+    },
+    {
+        "date": "2019-Jan-15",
+        "ht": "Manchester City",
+        "at": "Wolverhampton"
+    },
+    {
+        "date": "2019-Jan-19",
+        "ht": "Wolverhampton",
+        "at": "Leicester City"
+    },
+    {
+        "date": "2019-Jan-19",
+        "ht": "Bournemouth",
+        "at": "West Ham Utd"
+    },
+    {
+        "date": "2019-Jan-19",
+        "ht": "Liverpool",
+        "at": "Crystal Palace"
+    },
+    {
+        "date": "2019-Jan-19",
+        "ht": "Manchester Utd",
+        "at": "Brighton & Hove"
+    },
+    {
+        "date": "2019-Jan-19",
+        "ht": "Newcastle Utd",
+        "at": "Cardiff City"
+    },
+    {
+        "date": "2019-Jan-19",
+        "ht": "Southampton",
+        "at": "Everton"
+    },
+    {
+        "date": "2019-Jan-19",
+        "ht": "Watford",
+        "at": "Burnley"
+    },
+    {
+        "date": "2019-Jan-19",
+        "ht": "Arsenal",
+        "at": "Chelsea"
+    },
+    {
+        "date": "2019-Jan-20",
+        "ht": "Huddersfield",
+        "at": "Manchester City"
+    },
+    {
+        "date": "2019-Jan-20",
+        "ht": "Fulham",
+        "at": "Tottenham"
+    },
+    {
+        "date": "2019-Jan-29",
+        "ht": "Arsenal",
+        "at": "Cardiff City"
+    },
+    {
+        "date": "2019-Jan-29",
+        "ht": "Bournemouth",
+        "at": "Chelsea"
+    },
+    {
+        "date": "2019-Jan-29",
+        "ht": "Fulham",
+        "at": "Brighton & Hove"
+    },
+    {
+        "date": "2019-Jan-29",
+        "ht": "Huddersfield",
+        "at": "Everton"
+    },
+    {
+        "date": "2019-Jan-29",
+        "ht": "Wolverhampton",
+        "at": "West Ham Utd"
+    },
+    {
+        "date": "2019-Jan-30",
+        "ht": "Manchester Utd",
+        "at": "Burnley"
+    },
+    {
+        "date": "2019-Jan-30",
+        "ht": "Newcastle Utd",
+        "at": "Manchester City"
+    },
+    {
+        "date": "2019-Jan-30",
+        "ht": "Southampton",
+        "at": "Crystal Palace"
+    },
+    {
+        "date": "2019-Jan-31",
+        "ht": "Liverpool",
+        "at": "Leicester City"
+    },
+    {
+        "date": "2019-Jan-31",
+        "ht": "Tottenham",
+        "at": "Watford"
+    },
+    {
+        "date": "2019-Feb-2",
+        "ht": "Tottenham",
+        "at": "Newcastle Utd"
+    },
+    {
+        "date": "2019-Feb-2",
+        "ht": "Brighton & Hove",
+        "at": "Watford"
+    },
+    {
+        "date": "2019-Feb-2",
+        "ht": "Burnley",
+        "at": "Southampton"
+    },
+    {
+        "date": "2019-Feb-2",
+        "ht": "Chelsea",
+        "at": "Huddersfield"
+    },
+    {
+        "date": "2019-Feb-2",
+        "ht": "Crystal Palace",
+        "at": "Fulham"
+    },
+    {
+        "date": "2019-Feb-2",
+        "ht": "Everton",
+        "at": "Wolverhampton"
+    },
+    {
+        "date": "2019-Feb-2",
+        "ht": "Cardiff City",
+        "at": "Bournemouth"
+    },
+    {
+        "date": "2019-Feb-3",
+        "ht": "Leicester City",
+        "at": "Manchester Utd"
+    },
+    {
+        "date": "2019-Feb-3",
+        "ht": "Manchester City",
+        "at": "Arsenal"
+    },
+    {
+        "date": "2019-Feb-5",
+        "ht": "West Ham Utd",
+        "at": "Liverpool"
+    },
+    {
+        "date": "2019-Feb-9",
+        "ht": "Fulham",
+        "at": "Manchester Utd"
+    },
+    {
+        "date": "2019-Feb-9",
+        "ht": "Crystal Palace",
+        "at": "West Ham Utd"
+    },
+    {
+        "date": "2019-Feb-9",
+        "ht": "Huddersfield",
+        "at": "Arsenal"
+    },
+    {
+        "date": "2019-Feb-9",
+        "ht": "Liverpool",
+        "at": "Bournemouth"
+    },
+    {
+        "date": "2019-Feb-9",
+        "ht": "Southampton",
+        "at": "Cardiff City"
+    },
+    {
+        "date": "2019-Feb-9",
+        "ht": "Watford",
+        "at": "Everton"
+    },
+    {
+        "date": "2019-Feb-9",
+        "ht": "Brighton & Hove",
+        "at": "Burnley"
+    },
+    {
+        "date": "2019-Feb-10",
+        "ht": "Tottenham",
+        "at": "Leicester City"
+    },
+    {
+        "date": "2019-Feb-10",
+        "ht": "Manchester City",
+        "at": "Chelsea"
+    },
+    {
+        "date": "2019-Feb-12",
+        "ht": "Wolverhampton",
+        "at": "Newcastle Utd"
+    },
+    {
+        "date": "2019-Feb-22",
+        "ht": "Arsenal",
+        "at": "Southampton"
+    },
+    {
+        "date": "2019-Feb-22",
+        "ht": "Bournemouth",
+        "at": "Wolverhampton"
+    },
+    {
+        "date": "2019-Feb-22",
+        "ht": "Burnley",
+        "at": "Tottenham"
+    },
+    {
+        "date": "2019-Feb-22",
+        "ht": "Cardiff City",
+        "at": "Watford"
+    },
+    {
+        "date": "2019-Feb-22",
+        "ht": "Chelsea",
+        "at": "Brighton & Hove"
+    },
+    {
+        "date": "2019-Feb-22",
+        "ht": "Everton",
+        "at": "Manchester City"
+    },
+    {
+        "date": "2019-Feb-22",
+        "ht": "Leicester City",
+        "at": "Crystal Palace"
+    },
+    {
+        "date": "2019-Feb-22",
+        "ht": "Manchester Utd",
+        "at": "Liverpool"
+    },
+    {
+        "date": "2019-Feb-22",
+        "ht": "Newcastle Utd",
+        "at": "Huddersfield"
+    },
+    {
+        "date": "2019-Feb-22",
+        "ht": "West Ham Utd",
+        "at": "Fulham"
+    },
+    {
+        "date": "2019-Feb-25",
+        "ht": "Arsenal",
+        "at": "Bournemouth"
+    },
+    {
+        "date": "2019-Feb-25",
+        "ht": "Cardiff City",
+        "at": "Everton"
+    },
+    {
+        "date": "2019-Feb-25",
+        "ht": "Crystal Palace",
+        "at": "Manchester Utd"
+    },
+    {
+        "date": "2019-Feb-25",
+        "ht": "Huddersfield",
+        "at": "Wolverhampton"
+    },
+    {
+        "date": "2019-Feb-25",
+        "ht": "Leicester City",
+        "at": "Brighton & Hove"
+    },
+    {
+        "date": "2019-Feb-26",
+        "ht": "Chelsea",
+        "at": "Tottenham"
+    },
+    {
+        "date": "2019-Feb-26",
+        "ht": "Liverpool",
+        "at": "Watford"
+    },
+    {
+        "date": "2019-Feb-26",
+        "ht": "Manchester City",
+        "at": "West Ham Utd"
+    },
+    {
+        "date": "2019-Feb-26",
+        "ht": "Newcastle Utd",
+        "at": "Burnley"
+    },
+    {
+        "date": "2019-Feb-26",
+        "ht": "Southampton",
+        "at": "Fulham"
+    },
+    {
+        "date": "2019-Mar-1",
+        "ht": "Bournemouth",
+        "at": "Manchester City"
+    },
+    {
+        "date": "2019-Mar-1",
+        "ht": "Brighton & Hove",
+        "at": "Huddersfield"
+    },
+    {
+        "date": "2019-Mar-1",
+        "ht": "Burnley",
+        "at": "Crystal Palace"
+    },
+    {
+        "date": "2019-Mar-1",
+        "ht": "Everton",
+        "at": "Liverpool"
+    },
+    {
+        "date": "2019-Mar-1",
+        "ht": "Fulham",
+        "at": "Chelsea"
+    },
+    {
+        "date": "2019-Mar-1",
+        "ht": "Manchester Utd",
+        "at": "Southampton"
+    },
+    {
+        "date": "2019-Mar-1",
+        "ht": "Tottenham",
+        "at": "Arsenal"
+    },
+    {
+        "date": "2019-Mar-1",
+        "ht": "Watford",
+        "at": "Leicester City"
+    },
+    {
+        "date": "2019-Mar-1",
+        "ht": "West Ham Utd",
+        "at": "Newcastle Utd"
+    },
+    {
+        "date": "2019-Mar-1",
+        "ht": "Wolverhampton",
+        "at": "Cardiff City"
+    },
+    {
+        "date": "2019-Mar-8",
+        "ht": "Arsenal",
+        "at": "Manchester Utd"
+    },
+    {
+        "date": "2019-Mar-8",
+        "ht": "Cardiff City",
+        "at": "West Ham Utd"
+    },
+    {
+        "date": "2019-Mar-8",
+        "ht": "Chelsea",
+        "at": "Wolverhampton"
+    },
+    {
+        "date": "2019-Mar-8",
+        "ht": "Crystal Palace",
+        "at": "Brighton & Hove"
+    },
+    {
+        "date": "2019-Mar-8",
+        "ht": "Huddersfield",
+        "at": "Bournemouth"
+    },
+    {
+        "date": "2019-Mar-8",
+        "ht": "Leicester City",
+        "at": "Fulham"
+    },
+    {
+        "date": "2019-Mar-8",
+        "ht": "Liverpool",
+        "at": "Burnley"
+    },
+    {
+        "date": "2019-Mar-8",
+        "ht": "Manchester City",
+        "at": "Watford"
+    },
+    {
+        "date": "2019-Mar-8",
+        "ht": "Newcastle Utd",
+        "at": "Everton"
+    },
+    {
+        "date": "2019-Mar-8",
+        "ht": "Southampton",
+        "at": "Tottenham"
+    },
+    {
+        "date": "2019-Mar-15",
+        "ht": "Bournemouth",
+        "at": "Newcastle Utd"
+    },
+    {
+        "date": "2019-Mar-15",
+        "ht": "Brighton & Hove",
+        "at": "Cardiff City"
+    },
+    {
+        "date": "2019-Mar-15",
+        "ht": "Burnley",
+        "at": "Leicester City"
+    },
+    {
+        "date": "2019-Mar-15",
+        "ht": "Everton",
+        "at": "Chelsea"
+    },
+    {
+        "date": "2019-Mar-15",
+        "ht": "Fulham",
+        "at": "Liverpool"
+    },
+    {
+        "date": "2019-Mar-15",
+        "ht": "Manchester Utd",
+        "at": "Manchester City"
+    },
+    {
+        "date": "2019-Mar-15",
+        "ht": "Tottenham",
+        "at": "Crystal Palace"
+    },
+    {
+        "date": "2019-Mar-15",
+        "ht": "Watford",
+        "at": "Southampton"
+    },
+    {
+        "date": "2019-Mar-15",
+        "ht": "West Ham Utd",
+        "at": "Huddersfield"
+    },
+    {
+        "date": "2019-Mar-15",
+        "ht": "Wolverhampton",
+        "at": "Arsenal"
+    },
+    {
+        "date": "2019-Mar-29",
+        "ht": "Arsenal",
+        "at": "Newcastle Utd"
+    },
+    {
+        "date": "2019-Mar-29",
+        "ht": "Brighton & Hove",
+        "at": "Southampton"
+    },
+    {
+        "date": "2019-Mar-29",
+        "ht": "Burnley",
+        "at": "Wolverhampton"
+    },
+    {
+        "date": "2019-Mar-29",
+        "ht": "Cardiff City",
+        "at": "Chelsea"
+    },
+    {
+        "date": "2019-Mar-29",
+        "ht": "Crystal Palace",
+        "at": "Huddersfield"
+    },
+    {
+        "date": "2019-Mar-29",
+        "ht": "Fulham",
+        "at": "Manchester City"
+    },
+    {
+        "date": "2019-Mar-29",
+        "ht": "Leicester City",
+        "at": "Bournemouth"
+    },
+    {
+        "date": "2019-Mar-29",
+        "ht": "Liverpool",
+        "at": "Tottenham"
+    },
+    {
+        "date": "2019-Mar-29",
+        "ht": "Manchester Utd",
+        "at": "Watford"
+    },
+    {
+        "date": "2019-Mar-29",
+        "ht": "West Ham Utd",
+        "at": "Everton"
+    },
+    {
+        "date": "2019-Apr-5",
+        "ht": "Bournemouth",
+        "at": "Burnley"
+    },
+    {
+        "date": "2019-Apr-5",
+        "ht": "Chelsea",
+        "at": "West Ham Utd"
+    },
+    {
+        "date": "2019-Apr-5",
+        "ht": "Everton",
+        "at": "Arsenal"
+    },
+    {
+        "date": "2019-Apr-5",
+        "ht": "Huddersfield",
+        "at": "Leicester City"
+    },
+    {
+        "date": "2019-Apr-5",
+        "ht": "Manchester City",
+        "at": "Cardiff City"
+    },
+    {
+        "date": "2019-Apr-5",
+        "ht": "Newcastle Utd",
+        "at": "Crystal Palace"
+    },
+    {
+        "date": "2019-Apr-5",
+        "ht": "Southampton",
+        "at": "Liverpool"
+    },
+    {
+        "date": "2019-Apr-5",
+        "ht": "Tottenham",
+        "at": "Brighton & Hove"
+    },
+    {
+        "date": "2019-Apr-5",
+        "ht": "Watford",
+        "at": "Fulham"
+    },
+    {
+        "date": "2019-Apr-5",
+        "ht": "Wolverhampton",
+        "at": "Manchester Utd"
+    },
+    {
+        "date": "2019-Apr-12",
+        "ht": "Brighton & Hove",
+        "at": "Bournemouth"
+    },
+    {
+        "date": "2019-Apr-12",
+        "ht": "Burnley",
+        "at": "Cardiff City"
+    },
+    {
+        "date": "2019-Apr-12",
+        "ht": "Crystal Palace",
+        "at": "Manchester City"
+    },
+    {
+        "date": "2019-Apr-12",
+        "ht": "Fulham",
+        "at": "Everton"
+    },
+    {
+        "date": "2019-Apr-12",
+        "ht": "Leicester City",
+        "at": "Newcastle Utd"
+    },
+    {
+        "date": "2019-Apr-12",
+        "ht": "Liverpool",
+        "at": "Chelsea"
+    },
+    {
+        "date": "2019-Apr-12",
+        "ht": "Manchester Utd",
+        "at": "West Ham Utd"
+    },
+    {
+        "date": "2019-Apr-12",
+        "ht": "Southampton",
+        "at": "Wolverhampton"
+    },
+    {
+        "date": "2019-Apr-12",
+        "ht": "Tottenham",
+        "at": "Huddersfield"
+    },
+    {
+        "date": "2019-Apr-12",
+        "ht": "Watford",
+        "at": "Arsenal"
+    },
+    {
+        "date": "2019-Apr-19",
+        "ht": "Arsenal",
+        "at": "Crystal Palace"
+    },
+    {
+        "date": "2019-Apr-19",
+        "ht": "Bournemouth",
+        "at": "Fulham"
+    },
+    {
+        "date": "2019-Apr-19",
+        "ht": "Cardiff City",
+        "at": "Liverpool"
+    },
+    {
+        "date": "2019-Apr-19",
+        "ht": "Chelsea",
+        "at": "Burnley"
+    },
+    {
+        "date": "2019-Apr-19",
+        "ht": "Everton",
+        "at": "Manchester Utd"
+    },
+    {
+        "date": "2019-Apr-19",
+        "ht": "Huddersfield",
+        "at": "Watford"
+    },
+    {
+        "date": "2019-Apr-19",
+        "ht": "Manchester City",
+        "at": "Tottenham"
+    },
+    {
+        "date": "2019-Apr-19",
+        "ht": "Newcastle Utd",
+        "at": "Southampton"
+    },
+    {
+        "date": "2019-Apr-19",
+        "ht": "West Ham Utd",
+        "at": "Leicester City"
+    },
+    {
+        "date": "2019-Apr-19",
+        "ht": "Wolverhampton",
+        "at": "Brighton & Hove"
+    },
+    {
+        "date": "2019-Apr-26",
+        "ht": "Brighton & Hove",
+        "at": "Newcastle Utd"
+    },
+    {
+        "date": "2019-Apr-26",
+        "ht": "Burnley",
+        "at": "Manchester City"
+    },
+    {
+        "date": "2019-Apr-26",
+        "ht": "Crystal Palace",
+        "at": "Everton"
+    },
+    {
+        "date": "2019-Apr-26",
+        "ht": "Fulham",
+        "at": "Cardiff City"
+    },
+    {
+        "date": "2019-Apr-26",
+        "ht": "Leicester City",
+        "at": "Arsenal"
+    },
+    {
+        "date": "2019-Apr-26",
+        "ht": "Liverpool",
+        "at": "Huddersfield"
+    },
+    {
+        "date": "2019-Apr-26",
+        "ht": "Manchester Utd",
+        "at": "Chelsea"
+    },
+    {
+        "date": "2019-Apr-26",
+        "ht": "Southampton",
+        "at": "Bournemouth"
+    },
+    {
+        "date": "2019-Apr-26",
+        "ht": "Tottenham",
+        "at": "West Ham Utd"
+    },
+    {
+        "date": "2019-Apr-26",
+        "ht": "Watford",
+        "at": "Wolverhampton"
+    },
+    {
+        "date": "2019-May-3",
+        "ht": "Arsenal",
+        "at": "Brighton & Hove"
+    },
+    {
+        "date": "2019-May-3",
+        "ht": "Bournemouth",
+        "at": "Tottenham"
+    },
+    {
+        "date": "2019-May-3",
+        "ht": "Cardiff City",
+        "at": "Crystal Palace"
+    },
+    {
+        "date": "2019-May-3",
+        "ht": "Chelsea",
+        "at": "Watford"
+    },
+    {
+        "date": "2019-May-3",
+        "ht": "Everton",
+        "at": "Burnley"
+    },
+    {
+        "date": "2019-May-3",
+        "ht": "Huddersfield",
+        "at": "Manchester Utd"
+    },
+    {
+        "date": "2019-May-3",
+        "ht": "Manchester City",
+        "at": "Leicester City"
+    },
+    {
+        "date": "2019-May-3",
+        "ht": "Newcastle Utd",
+        "at": "Liverpool"
+    },
+    {
+        "date": "2019-May-3",
+        "ht": "West Ham Utd",
+        "at": "Southampton"
+    },
+    {
+        "date": "2019-May-3",
+        "ht": "Wolverhampton",
+        "at": "Fulham"
+    },
+    {
+        "date": "2019-May-11",
+        "ht": "Brighton & Hove",
+        "at": "Manchester City"
+    },
+    {
+        "date": "2019-May-11",
+        "ht": "Burnley",
+        "at": "Arsenal"
+    },
+    {
+        "date": "2019-May-11",
+        "ht": "Crystal Palace",
+        "at": "Bournemouth"
+    },
+    {
+        "date": "2019-May-11",
+        "ht": "Fulham",
+        "at": "Newcastle Utd"
+    },
+    {
+        "date": "2019-May-11",
+        "ht": "Leicester City",
+        "at": "Chelsea"
+    },
+    {
+        "date": "2019-May-11",
+        "ht": "Liverpool",
+        "at": "Wolverhampton"
+    },
+    {
+        "date": "2019-May-11",
+        "ht": "Manchester Utd",
+        "at": "Cardiff City"
+    },
+    {
+        "date": "2019-May-11",
+        "ht": "Southampton",
+        "at": "Huddersfield"
+    },
+    {
+        "date": "2019-May-11",
+        "ht": "Tottenham",
+        "at": "Everton"
+    },
+    {
+        "date": "2019-May-11",
+        "ht": "Watford",
+        "at": "West Ham Utd"
+    }
+]

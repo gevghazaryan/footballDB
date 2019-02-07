@@ -1,0 +1,20 @@
+ Manchester City
+ Liverpool-Liverpool
+ Chelsea-Chelsea
+ Arsenal-Arsenal
+ Everton-Everton
+ Tottenham-Tottenham
+ Manchester Utd
+ Southampton-Southampton
+ Stoke City-Stoke
+ Newcastle Utd-Newcastle
+ Crystal Palace-Crystal Palace
+ Swansea City-Swansea
+ West Ham Utd-West Ham
+ Sunderland-Sunderland
+ Aston Villa-Aston Villa
+ Hull City-Hull
+ West Bromwich-West Brom
+ Norwich City-Norwich
+ Fulham-Fulham
+ Cardiff City-Cardiff

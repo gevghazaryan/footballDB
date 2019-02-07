@@ -1,0 +1,153 @@
+Fri 18 Jan	23:30	 Hoffenheim - Bayern Munich	
+Sat 19 Jan	18:30	 FC Augsburg - Düsseldorf	
+Sat 19 Jan	18:30	 Frankfurt - Freiburg	
+Sat 19 Jan	18:30	 Hannover 96 - Werder Bremen	
+Sat 19 Jan	18:30	 Leverkusen - Moenchengladb.	
+Sat 19 Jan	18:30	 Stuttgart - FSV Mainz	
+Sat 19 Jan	21:30	 RB Leipzig - Dortmund	
+Sun 20 Jan	18:30	 FC Nürnberg - Hertha Berlin	
+Sun 20 Jan	21:00	 Schalke 04 - Wolfsburg	
+Fri 25 Jan	23:30	 Hertha Berlin - Schalke 04	
+Sat 26 Jan	18:30	 Dortmund - Hannover 96	
+Sat 26 Jan	18:30	 Freiburg - Hoffenheim	
+Sat 26 Jan	18:30	 FSV Mainz - FC Nürnberg	
+Sat 26 Jan	18:30	 Moenchengladb. - FC Augsburg	
+Sat 26 Jan	18:30	 Wolfsburg - Leverkusen	
+Sat 26 Jan	21:30	 Werder Bremen - Frankfurt	
+Sun 27 Jan	18:30	 Bayern Munich - Stuttgart	
+Sun 27 Jan	21:00	 Düsseldorf - RB Leipzig	
+Fri 1 Feb	23:30	 Hannover 96 - RB Leipzig	
+Sat 2 Feb	18:30	 FC Nürnberg - Werder Bremen	
+Sat 2 Feb	18:30	 Frankfurt - Dortmund	
+Sat 2 Feb	18:30	 Hertha Berlin - Wolfsburg	
+Sat 2 Feb	18:30	 Hoffenheim - Düsseldorf	
+Sat 2 Feb	18:30	 Leverkusen - Bayern Munich	-
+Sat 2 Feb	21:30	 Schalke 04 - Moenchengladb.	-
+Sun 3 Feb	18:30	 FC Augsburg - FSV Mainz	-
+Sun 3 Feb	21:00	 Stuttgart - Freiburg	-
+Fri 8 Feb	23:30	 FSV Mainz - Leverkusen	-
+Sat 9 Feb	18:30	 Dortmund - Hoffenheim	-
+Sat 9 Feb	18:30	 Freiburg - Wolfsburg	-
+Sat 9 Feb	18:30	 Hannover 96 - FC Nürnberg	-
+Sat 9 Feb	18:30	 Moenchengladb. - Hertha Berlin	-
+Sat 9 Feb	18:30	 RB Leipzig - Frankfurt	-
+Sat 9 Feb	21:30	 Bayern Munich - Schalke 04	-
+Sun 10 Feb	18:30	 Werder Bremen - FC Augsburg	-
+Sun 10 Feb	21:00	 Düsseldorf - Stuttgart	-
+Fri 15 Feb	04:00	 FC Nürnberg - Dortmund	-
+Fri 15 Feb	04:00	 Frankfurt - Moenchengladb.	-
+Fri 15 Feb	04:00	 Hertha Berlin - Werder Bremen	-
+Fri 15 Feb	04:00	 Hoffenheim - Hannover 96	-
+Fri 15 Feb	04:00	 Leverkusen - Düsseldorf	-
+Fri 15 Feb	04:00	 Schalke 04 - Freiburg	-
+Fri 15 Feb	04:00	 Stuttgart - RB Leipzig	-
+Fri 15 Feb	04:00	 Wolfsburg - FSV Mainz	-
+Fri 15 Feb	23:30	 FC Augsburg - Bayern Munich	-
+Fri 22 Feb	04:00	 Bayern Munich - Hertha Berlin	-
+Fri 22 Feb	04:00	 Dortmund - Leverkusen	-
+Fri 22 Feb	04:00	 Düsseldorf - FC Nürnberg	-
+Fri 22 Feb	04:00	 Freiburg - FC Augsburg	-
+Fri 22 Feb	04:00	 FSV Mainz - Schalke 04	-
+Fri 22 Feb	04:00	 Hannover 96 - Frankfurt	-
+Fri 22 Feb	04:00	 Moenchengladb. - Wolfsburg	-
+Fri 22 Feb	04:00	 RB Leipzig - Hoffenheim	-
+Fri 22 Feb	04:00	 Werder Bremen - Stuttgart	-
+Fri 1 Mar	04:00	 FC Augsburg - Dortmund	-
+Fri 1 Mar	04:00	 FC Nürnberg - RB Leipzig	-
+Fri 1 Mar	04:00	 Frankfurt - Hoffenheim	-
+Fri 1 Mar	04:00	 Hertha Berlin - FSV Mainz	-
+Fri 1 Mar	04:00	 Leverkusen - Freiburg	-
+Fri 1 Mar	04:00	 Moenchengladb. - Bayern Munich	-
+Fri 1 Mar	04:00	 Schalke 04 - Düsseldorf	-
+Fri 1 Mar	04:00	 Stuttgart - Hannover 96	-
+Fri 1 Mar	04:00	 Wolfsburg - Werder Bremen	-
+Fri 8 Mar	04:00	 Bayern Munich - Wolfsburg	-
+Fri 8 Mar	04:00	 Dortmund - Stuttgart	-
+Fri 8 Mar	04:00	 Düsseldorf - Frankfurt	-
+Fri 8 Mar	04:00	 Freiburg - Hertha Berlin	-
+Fri 8 Mar	04:00	 FSV Mainz - Moenchengladb.	-
+Fri 8 Mar	04:00	 Hannover 96 - Leverkusen	-
+Fri 8 Mar	04:00	 Hoffenheim - FC Nürnberg	-
+Fri 8 Mar	04:00	 RB Leipzig - FC Augsburg	-
+Fri 8 Mar	04:00	 Werder Bremen - Schalke 04	-
+Fri 15 Mar	04:00	 Bayern Munich - FSV Mainz	-
+Fri 15 Mar	04:00	 FC Augsburg - Hannover 96	-
+Fri 15 Mar	04:00	 Frankfurt - FC Nürnberg	-
+Fri 15 Mar	04:00	 Hertha Berlin - Dortmund	-
+Fri 15 Mar	04:00	 Leverkusen - Werder Bremen	-
+Fri 15 Mar	04:00	 Moenchengladb. - Freiburg	-
+Fri 15 Mar	04:00	 Schalke 04 - RB Leipzig	-
+Fri 15 Mar	04:00	 Stuttgart - Hoffenheim	-
+Fri 15 Mar	04:00	 Wolfsburg - Düsseldorf	-
+Fri 29 Mar	04:00	 Dortmund - Wolfsburg	-
+Fri 29 Mar	04:00	 Düsseldorf - Moenchengladb.	-
+Fri 29 Mar	04:00	 FC Nürnberg - FC Augsburg	-
+Fri 29 Mar	04:00	 Frankfurt - Stuttgart	-
+Fri 29 Mar	04:00	 Freiburg - Bayern Munich	-
+Fri 29 Mar	04:00	 Hannover 96 - Schalke 04	-
+Fri 29 Mar	04:00	 Hoffenheim - Leverkusen	-
+Fri 29 Mar	04:00	 RB Leipzig - Hertha Berlin	-
+Fri 29 Mar	04:00	 Werder Bremen - FSV Mainz	-
+Fri 5 Apr	04:00	 Bayern Munich - Dortmund	-
+Fri 5 Apr	04:00	 FC Augsburg - Hoffenheim	-
+Fri 5 Apr	04:00	 FSV Mainz - Freiburg	-
+Fri 5 Apr	04:00	 Hertha Berlin - Düsseldorf	-
+Fri 5 Apr	04:00	 Leverkusen - RB Leipzig	-
+Fri 5 Apr	04:00	 Moenchengladb. - Werder Bremen	-
+Fri 5 Apr	04:00	 Schalke 04 - Frankfurt	-
+Fri 5 Apr	04:00	 Stuttgart - FC Nürnberg	-
+Fri 5 Apr	04:00	 Wolfsburg - Hannover 96	-
+Fri 12 Apr	04:00	 Dortmund - FSV Mainz	-
+Fri 12 Apr	04:00	 Düsseldorf - Bayern Munich	-
+Fri 12 Apr	04:00	 FC Nürnberg - Schalke 04	-
+Fri 12 Apr	04:00	 Frankfurt - FC Augsburg	-
+Fri 12 Apr	04:00	 Hannover 96 - Moenchengladb.	-
+Fri 12 Apr	04:00	 Hoffenheim - Hertha Berlin	-
+Fri 12 Apr	04:00	 RB Leipzig - Wolfsburg	-
+Fri 12 Apr	04:00	 Stuttgart - Leverkusen	-
+Fri 12 Apr	04:00	 Werder Bremen - Freiburg	-
+Fri 19 Apr	04:00	 Bayern Munich - Werder Bremen	-
+Fri 19 Apr	04:00	 FC Augsburg - Stuttgart	-
+Fri 19 Apr	04:00	 Freiburg - Dortmund	-
+Fri 19 Apr	04:00	 FSV Mainz - Düsseldorf	-
+Fri 19 Apr	04:00	 Hertha Berlin - Hannover 96	-
+Fri 19 Apr	04:00	 Leverkusen - FC Nürnberg	-
+Fri 19 Apr	04:00	 Moenchengladb. - RB Leipzig	-
+Fri 19 Apr	04:00	 Schalke 04 - Hoffenheim	-
+Fri 19 Apr	04:00	 Wolfsburg - Frankfurt	-
+Fri 26 Apr	04:00	 Dortmund - Schalke 04	-
+Fri 26 Apr	04:00	 Düsseldorf - Werder Bremen	-
+Fri 26 Apr	04:00	 FC Augsburg - Leverkusen	-
+Fri 26 Apr	04:00	 FC Nürnberg - Bayern Munich	-
+Fri 26 Apr	04:00	 Frankfurt - Hertha Berlin	-
+Fri 26 Apr	04:00	 Hannover 96 - FSV Mainz	-
+Fri 26 Apr	04:00	 Hoffenheim - Wolfsburg	-
+Fri 26 Apr	04:00	 RB Leipzig - Freiburg	-
+Fri 26 Apr	04:00	 Stuttgart - Moenchengladb.	-
+Fri 3 May	04:00	 Bayern Munich - Hannover 96	-
+Fri 3 May	04:00	 Freiburg - Düsseldorf	-
+Fri 3 May	04:00	 FSV Mainz - RB Leipzig	-
+Fri 3 May	04:00	 Hertha Berlin - Stuttgart	-
+Fri 3 May	04:00	 Leverkusen - Frankfurt	-
+Fri 3 May	04:00	 Moenchengladb. - Hoffenheim	-
+Fri 3 May	04:00	 Schalke 04 - FC Augsburg	-
+Fri 3 May	04:00	 Werder Bremen - Dortmund	-
+Fri 3 May	04:00	 Wolfsburg - FC Nürnberg	-
+Fri 10 May	04:00	 Dortmund - Düsseldorf	-
+Fri 10 May	04:00	 FC Augsburg - Hertha Berlin	-
+Fri 10 May	04:00	 FC Nürnberg - Moenchengladb.	-
+Fri 10 May	04:00	 Frankfurt - FSV Mainz	-
+Fri 10 May	04:00	 Hannover 96 - Freiburg	-
+Fri 10 May	04:00	 Hoffenheim - Werder Bremen	-
+Fri 10 May	04:00	 Leverkusen - Schalke 04	-
+Fri 10 May	04:00	 RB Leipzig - Bayern Munich	-
+Fri 10 May	04:00	 Stuttgart - Wolfsburg	-
+Fri 17 May	04:00	 Bayern Munich - Frankfurt	-
+Fri 17 May	04:00	 Düsseldorf - Hannover 96	-
+Fri 17 May	04:00	 Freiburg - FC Nürnberg	-
+Fri 17 May	04:00	 FSV Mainz - Hoffenheim	-
+Fri 17 May	04:00	 Hertha Berlin - Leverkusen	-
+Fri 17 May	04:00	 Moenchengladb. - Dortmund	-
+Fri 17 May	04:00	 Schalke 04 - Stuttgart	-
+Fri 17 May	04:00	 Werder Bremen - RB Leipzig	-
+Fri 17 May	04:00	 Wolfsburg - FC Augsburg	-

@@ -1,0 +1,20 @@
+Manchester Utd-Man United
+Manchester City-Man City
+Chelsea-Chelsea
+Arsenal-Arsenal
+Tottenham-Tottenham
+Everton-Everton
+Liverpool-Liverpool
+West Bromwich-West Brom
+Swansea City-Swansea
+West Ham Utd-West Ham
+Norwich City-Norwich
+Fulham-Fulham
+Stoke City-Stoke
+Southampton-Southampton
+Aston Villa-Aston Villa
+Newcastle Utd-Newcastle
+Sunderland-Sunderland
+Wigan Athletic-Wigan
+Reading-Reading
+QP Rangers-QPR

@@ -1,0 +1,82 @@
+[
+    {
+        "id": "19",
+        "teamName": "paris-sg"
+    },
+    {
+        "id": "7",
+        "teamName": "lille"
+    },
+    {
+        "id": "15",
+        "teamName": "lyon"
+    },
+    {
+        "id": "5",
+        "teamName": "montpellier"
+    },
+    {
+        "id": "9",
+        "teamName": "saint-etienne"
+    },
+    {
+        "id": "1",
+        "teamName": "marseille"
+    },
+    {
+        "id": "18",
+        "teamName": "strasbourg"
+    },
+    {
+        "id": "8",
+        "teamName": "rennes"
+    },
+    {
+        "id": "12",
+        "teamName": "reims"
+    },
+    {
+        "id": "11",
+        "teamName": "nice"
+    },
+    {
+        "id": "3",
+        "teamName": "nantes"
+    },
+    {
+        "id": "14",
+        "teamName": "nimes"
+    },
+    {
+        "id": "17",
+        "teamName": "bordeaux"
+    },
+    {
+        "id": "2",
+        "teamName": "toulouse"
+    },
+    {
+        "id": "13",
+        "teamName": "angers"
+    },
+    {
+        "id": "20",
+        "teamName": "caen"
+    },
+    {
+        "id": "16",
+        "teamName": "amiens"
+    },
+    {
+        "id": "6",
+        "teamName": "dijon"
+    },
+    {
+        "id": "4",
+        "teamName": "monaco"
+    },
+    {
+        "id": "10",
+        "teamName": "guingamp"
+    }
+]

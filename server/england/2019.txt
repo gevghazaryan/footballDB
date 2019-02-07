@@ -1,0 +1,20 @@
+Liverpool-Liverpool
+Manchester City-Man City
+Tottenham-Tottenham
+Chelsea-Chelsea
+Arsenal-Arsenal
+Manchester Utd-Man United
+Watford-Watford
+Leicester City-Leicester
+West Ham Utd-West Ham
+Everton-Everton
+Wolverhampton+Wolves
+Bournemouth-Bournemouth
+Brighton & Hove-Brighton
+Crystal Palace-Crystal Palace
+Burnley-Burnley
+Southampton-Southampton
+Cardiff City-Cardiff
+Newcastle Utd-Newcastle
+Fulham-Fulham
+Huddersfield-Huddersfield
